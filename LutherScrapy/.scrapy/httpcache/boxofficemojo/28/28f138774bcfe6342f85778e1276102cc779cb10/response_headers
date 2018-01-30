@@ -1,0 +1,12 @@
+Accept-Ranges: bytes
+Content-Encoding: gzip
+Content-Type: text/plain
+Date: Sun, 21 Jan 2018 18:19:51 GMT
+Etag: "56a2ad34-f2-gzip"
+Last-Modified: Fri, 22 Jan 2016 22:29:08 GMT
+Server: Server
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: master-only
+X-Xss-Protection: 1; mode=block
